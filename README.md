@@ -25,7 +25,7 @@ maratang-trend-analysis/
 
 ## 실행 방법
 
-Python 3.10 이상이 필요합니다 (작성 환경: Python 3.11.15, Windows 11).
+Python 3.11 이상이 필요합니다 (작성 환경: Python 3.11.15, Windows 11).
 
 ```bash
 # 1. 가상환경 생성 및 활성화
