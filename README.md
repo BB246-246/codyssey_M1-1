@@ -68,4 +68,4 @@ jupyter nbconvert --to notebook --execute --inplace analysis.ipynb   # images/ �
 ### 주의 사항
 
 - Google Trends 지수는 표본 기반으로 계산되고 조회 기간에 따라 다시 정규화되므로, **같은 조건으로 다시 내려받아도 값이 조금 다를 수 있습니다.** 재현할 때는 저장소에 포함된 CSV를 사용하세요.
-- 데이터 저작권은 Google에 있습니다. 이 저장소는 학습 목적으로 원본 CSV를 포함하며, 인용 시 출처를 "Google Trends (https://trends.google.com)"로 표기합니다. 상업적으로 쓰려면 Google 서비스 약관을 확인하세요.
+- 데이터 저작권은 Google에 있습니다. 이 저장소는 학습 목적으로 원본 CSV를 포함하며, 인용 시 출처를 "Google Trends (https://trends.google.com)" 로 표기합니다. 상업적으로 쓰려면 Google 서비스 약관을 확인하세요.
